@@ -26,9 +26,9 @@
               "Title": "practice.cpp",
               "DocumentMoniker": "D:\\C\\Project1\\Project1\\practice.cpp",
               "RelativeDocumentMoniker": "Project1\\practice.cpp",
-              "ToolTip": "D:\\C\\Project1\\Project1\\practice.cpp*",
-              "RelativeToolTip": "Project1\\practice.cpp*",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACgAAAAVAAAAAAAAAA==",
+              "ToolTip": "D:\\C\\Project1\\Project1\\practice.cpp",
+              "RelativeToolTip": "Project1\\practice.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-09T06:52:04.311Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Project1\\practice.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-09T06:52:01.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T06:52:01.885Z"
             }
           ]
         }

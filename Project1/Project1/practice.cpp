@@ -31,7 +31,7 @@ Data* reconnect(Data* head, int value) {
 		curr->next = head;
 		head = curr;
 	}
-
+	//git push Test
 	return head;
 }
 
